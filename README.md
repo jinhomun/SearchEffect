@@ -1,6 +1,6 @@
 # SearchEffect
 
-- SearchEffect 이용해서 CSS속성을 검색 할수 있도록 만들었습니다.<br>
+- 다양한 메소드를 이용해서 CSS속성을 검색 할수 있도록 만들었습니다.<br>
 - SearchEffect01에서는 indexOf()/search()를 이용하여 검색박스에 CSS속성이름을 넣으면 결과값이 나오도록 했습니다.<br>
 - SearchEffect02에서는 include()를 이용하여 CSS속성의 유형을 검색하면 검색한 유형의 CSS속성만 나오도록 했습니다.<br>
 - SearchEffect03에서는 charAt()를 이용하여 선택한 알파벳이 CSS속성의 첫글자로 시작하는 CSS속성만 나오도록 했습니다.<br>
